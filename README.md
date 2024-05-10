@@ -5,9 +5,8 @@
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-mallik-68a57b214/)
 </div>
 
-<p>Hi! My name is Ashwin Mallik, and I am currently a student at the University of Toronto. I am majoring in Computer Science with a specialization in the Software Engineering field, and I am also pursuing a Statistics major!/p>
+<p>Hi! My name is Ashwin Mallik, and I am currently a student at the University of Toronto. I am majoring in Computer Science with a specialization in the Software Engineering field, and I am also pursuing a Statistics major!</p>
 
-<h1 id="Skills" align="center">Tech Stack</h1>
 <div align="center">
 
   [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
