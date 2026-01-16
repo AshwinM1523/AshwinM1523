@@ -5,7 +5,7 @@
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-mallik-68a57b214/)
 </div>
 
-<p>Hi! My name is Ashwin Mallik, and I am currently a student at the University of Toronto and have done 5 internships. I am majoring in Computer Science with a specialization in the Software Engineering field, and I am also pursuing a Statistics major!</p>. I also currently work in Tech Consulting.
+<p>Hi! My name is Ashwin Mallik, and I am currently a student at the University of Toronto and have done 5 internships. I am majoring in Computer Science with a specialization in the Software Engineering field, and I am also pursuing a Statistics major! I also currently work in Tech Consulting.</p>
 
 <div align="center">
 
